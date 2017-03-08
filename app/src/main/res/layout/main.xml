@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+        android:id="@+id/xText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="X"
+        android:textAllCaps="true"
+        android:textColor="#86AD33"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/yText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="Y"
+        android:textAllCaps="true"
+        android:textColor="#86AD33"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+    android:id="@+id/zText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:gravity="center_horizontal"
+    android:text="Z"
+    android:textAllCaps="true"
+    android:textColor="#86AD33"
+    android:textSize="25dp"
+    android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/vText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="V"
+        android:textAllCaps="true"
+        android:textColor="#86AD33"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="M"
+        android:textAllCaps="true"
+        android:textColor="#86AD33"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
